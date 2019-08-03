@@ -1,24 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import {Provider} from 'react-redux';
+import QuoteBox from './QuoteBox';
+import 'bootstrap/dist/css/bootstrap.css';
+import { store } from './store';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container h-100">
+      <div className="row h-100 justify-content-center align-items-center">
+        <Provider store={store}>
+          <QuoteBox />
+        </Provider>
+      </div>
     </div>
   );
 }

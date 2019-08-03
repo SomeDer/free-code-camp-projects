@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/free-code-camp-projects/react/quotes/build/static/js/main.bdede620.chunk.js",
+    "main.js.map": "/free-code-camp-projects/react/quotes/build/static/js/main.bdede620.chunk.js.map",
+    "runtime~main.js": "/free-code-camp-projects/react/quotes/build/static/js/runtime~main.2021ae21.js",
+    "runtime~main.js.map": "/free-code-camp-projects/react/quotes/build/static/js/runtime~main.2021ae21.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/free-code-camp-projects/react/quotes/build/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.2791c617.chunk.js": "/free-code-camp-projects/react/quotes/build/static/js/2.2791c617.chunk.js",
+    "static/js/2.2791c617.chunk.js.map": "/free-code-camp-projects/react/quotes/build/static/js/2.2791c617.chunk.js.map",
+    "index.html": "/free-code-camp-projects/react/quotes/build/index.html",
+    "precache-manifest.bfd85c8a23e5c328bc28b9658a441b8e.js": "/free-code-camp-projects/react/quotes/build/precache-manifest.bfd85c8a23e5c328bc28b9658a441b8e.js",
+    "service-worker.js": "/free-code-camp-projects/react/quotes/build/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/free-code-camp-projects/react/quotes/build/static/css/2.22a7d4ef.chunk.css.map"
+  }
+}
