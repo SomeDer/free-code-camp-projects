@@ -1,6 +1,7 @@
 const getQuote = () => quotes[Math.floor(Math.random() * quotes.length)];
 export default getQuote;
 
+// from https://gist.github.com/erickedji/68802
 const quotes = [
   {
   quote: "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.",
